@@ -37,6 +37,5 @@ curl -H Metadata-Flavor:Google 169.254.169.254/computeMetadata/v1/instance/servi
 ```
 GPT_TOKEN = "ВАШ IAM_TOKEN"
 ```  
-11) Установите requirements  
-12) Измените данные в файле system_config.py (по желанию)  
-13) Запустите файл bot.py  
+11) Измените данные в файле system_config.py (по желанию)  
+12) Запустите файл bot.py  
